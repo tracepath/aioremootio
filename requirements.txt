@@ -1,4 +1,4 @@
-aiohttp==3.10.10
+aiohttp==3.10.11
 pycryptodome==3.21
 async-class==0.5.0
 voluptuous==0.15.2
